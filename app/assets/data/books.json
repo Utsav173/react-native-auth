@@ -1,0 +1,914 @@
+[
+    {
+      "id": "6",
+      "name": "CNS IMP",
+      "dip": "^th Sem IT CNS exam imp",
+      "thumbnail":"https://drive.internxt.com/6b06a533-560c-4238-a1e6-25eed9bdd2dc",
+      "link": "/app/assets/upload/IT-SEM_6_CNS.pdf",
+      "category":"Information Technology"
+    },
+    {
+      "id": "9",
+      "name": "MERN Stack Retail Store POS Application",
+      "dip": "Welcome to the course on the MERN Stack Retail Store POS App.",
+      "thumbnail": "../assets/upload/photo_2022-05-04_19-03-29.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/1YXGOwjFZpyXoY55PWBCq1UN8EUrzfVom?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "10",
+      "name": "Flutter Beginners Course",
+      "dip": "In this flutter class, I have tried to make flutter as simple as possible. So if you want to become an Android developer or an iOS developer and build Android or iOS apps, you wonâ€™t have to worry about anything.",
+      "thumbnail": "/app/assets/upload/photo_2022-05-04_19-06-02.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/1lJkJpNZk6InkszU1qjrYqN_qLvKijKhd?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "12",
+      "name": "Arduino zero to hero",
+      "dip": "This course will see if you can finish the learning path in 30 days and become a good Arduino programmer.",
+      "thumbnail": "/app/assets/upload/photo_2022-05-04_19-07-22.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/1WEGrTMC6jHWoQgq0N21z_j9Bv2BdeAFT?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "13",
+      "name": "Master in Automated Invoice Maker",
+      "dip": "Reasons why you should take this Master in Automated Invoice Maker in Excel course first.",
+      "thumbnail": "/app/assets/upload/photo_2022-05-04_19-09-22.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/1QlRtU1-fQo2_Kz5DL1rAYzootTFOpWpx?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "14",
+      "name": "Algorithm notes ",
+      "dip": "algorithm notes for professional",
+      "thumbnail": "/app/assets/upload/Algo_for_pro.jpg",
+      "link": "https://drive.google.com/uc?export=download&id=11Lu0LhRAwSJdf4ctdqsvLC1DSLJhamh_",
+      "category":"OTHER"
+    },
+    {
+      "id": "15",
+      "name": "C# notes",
+      "dip": "C# notes for beginner & professional",
+      "thumbnail": "/app/assets/upload/CSharpNotesForProfessionals_1.jpg",
+      "link": "https://drive.google.com/uc?export=download&id=1w3XZvdXCqO-lx_bFdwaExQ1nZl65Y4L3",
+      "category":"OTHER"
+    },
+    {
+      "id": "16",
+      "name": "Angular JS",
+      "dip": "Angular js notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (491).png",
+      "link": "https://drive.google.com/uc?export=download&id=1To7RkqSKTwMn3393xbcUOROgx_7rfvqw",
+      "category":"OTHER"
+    },
+    {
+      "id": "17",
+      "name": "Bash notes",
+      "dip": "Bash notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (492).png",
+      "link": "https://drive.google.com/uc?export=download&id=1elVzFgaFkpa8I30k7IU3brzgyqCI2hgn",
+      "category":"OTHER"
+    },
+    {
+      "id": "18",
+      "name": "C++ notes",
+      "dip": "C++ notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (493).png",
+      "link": "https://drive.google.com/uc?export=download&id=1CSzNQsv8lrJZ-_KUwKzfbHPgmTtdLbtJ",
+      "category":"OTHER"
+    },
+    {
+      "id": "19",
+      "name": "CSS notes",
+      "dip": "CSS notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (495).png",
+      "link": "https://drive.google.com/uc?export=download&id=1BRVrG0_OJp-wlLLiOgOULVq-rVmWi0AK",
+      "category":"OTHER"
+    },
+    {
+      "id": "20",
+      "name": ".NET framework notes",
+      "dip": ".NET framework notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (496).png",
+      "link": "https://drive.google.com/uc?export=download&id=1_4nvINr1w0P7PJodBVCXNNK1CJCTN8wv",
+      "category":"OTHER"
+    },
+    {
+      "id": "21",
+      "name": "Entity framework notes",
+      "dip": "Entity framework notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (497).png",
+      "link": "https://drive.google.com/uc?export=download&id=14T23hwFlmGySb3i3s_RFuzJbZx6b-i0T",
+      "category":"OTHER"
+    },
+    {
+      "id": "22",
+      "name": "Git notes",
+      "dip": "Git notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (498).png",
+      "link": "https://drive.google.com/uc?export=download&id=14LS4knuv30cIm4oh-r-ekvNzhfz1ZY4L",
+      "category":"OTHER"
+    },
+    {
+      "id": "23",
+      "name": "HTML5 notes",
+      "dip": "HTML5 notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (499).png",
+      "link": "https://drive.google.com/uc?export=download&id=1I1-XcBM0S2yo8r3ofSgcgIujIORG374g",
+      "category":"OTHER"
+    },
+    {
+      "id": "24",
+      "name": "JAVA notes",
+      "dip": "JAVA notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (500).png",
+      "link": "https://drive.google.com/uc?export=download&id=1acxtbd55oFEuGsSjnUjlmVK9tAoPu7xY",
+      "category":"OTHER"
+    },
+    {
+      "id": "26",
+      "name": "JavaScript notes",
+      "dip": "JavaScript notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (501).png",
+      "link": "https://drive.google.com/uc?export=download&id=1acxtbd55oFEuGsSjnUjlmVK9tAoPu7xY",
+      "category":"OTHER"
+    },
+    {
+      "id": "27",
+      "name": "Linux notes",
+      "dip": "Linux notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (502).png",
+      "link": "https://drive.google.com/uc?export=download&id=1TK1AYuG2mqhlkOmE-Q2SHhBA6pEUdcpM",
+      "category":"OTHER"
+    },
+    {
+      "id": "28",
+      "name": "Microsoft SQL Server notes",
+      "dip": "Microsoft Sql server notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (503).png",
+      "link": "https://drive.google.com/uc?export=download&id=1yTqBdqOjG-KJ7qLYf4MXK1lD5m-hfke5",
+      "category":"OTHER"
+    },
+    {
+      "id": "29",
+      "name": "Mongo DB Server notes",
+      "dip": "Mongo DB notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (504).png",
+      "link": "https://drive.google.com/uc?export=download&id=12tbpCIvBL6sdDWnvBqVdUDJ4IwIHne2f",
+      "category":"OTHER"
+    },
+    {
+      "id": "30",
+      "name": "MySQL notes",
+      "dip": "MySQL notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (505).png",
+      "link": "https://drive.google.com/uc?export=download&id=1eBktonoXum0hadYhYKgVxHL3Ohs0V5J1",
+      "category":"OTHER"
+    },
+    {
+      "id": "31",
+      "name": "Powershell notes",
+      "dip": "Powershell notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (506).png",
+      "link": "https://drive.google.com/uc?export=download&id=1cn274nEMJNXCAD61xT2-kj5qVJ-sJ9yN",
+      "category":"OTHER"
+    },
+    {
+      "id": "32",
+      "name": "Python notes",
+      "dip": "Python notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (507).png",
+      "link": "https://drive.google.com/uc?export=download&id=1DypU_CQRGTH4P2wiBND0qPG7h3PNlvLU",
+      "category":"OTHER"
+    },
+    {
+      "id": "33",
+      "name": "R notes",
+      "dip": "R notes for professional",
+      "thumbnail": "/app/assets/upload/Screenshot (508).png",
+      "link": "https://drive.google.com/uc?export=download&id=1nG1EfcElOjWAYSUewXWO3jM1FEepEm40",
+      "category":"OTHER"
+    },
+    {
+      "id": "34",
+      "name": "Python for Software Engineering Bootcamp",
+      "dip": "Python for Software Engineering Bootcamp notes for professional",
+      "thumbnail": "/app/assets/upload/photo_2022-05-10_11-01-51.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/19KinNYrsYa6B75dpWeSyhCregQq6SKxA?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "35",
+      "name": "Play Framework Web Development",
+      "dip": "Play Framework Web Development notes For Beginners",
+      "thumbnail": "/app/assets/upload/photo_2022-05-10_11-03-22.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/1p2GnDxsIkAhwv5An0LdcDmXZPqnReU7C?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "36",
+      "name": "React Dropzone",
+      "dip": "React Dropzone drag and drop files and upload to firebase notes",
+      "thumbnail": "/app/assets/upload/photo_2022-05-10_11-05-32.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/11MTJuhzSNs178cj_IWfSSwPvJhtKwSqA?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "37",
+      "name": "Python and Blockchain",
+      "dip": "Udemy - Learn about Python and Blockchain The Complete Guide",
+      "thumbnail": "/app/assets/upload/photo_2022-05-10_11-06-12.jpg",
+      "link": "https://mega.nz/folder/RRFEyIYB#jRVC4FK87WmvtEbgSsSp5g",
+      "category":"OTHER"
+    },
+    {
+      "id": "38",
+      "name": "Java Virtual Threads and Continuations",
+      "dip": "Learn about Project Loom, Java Virtual Threads and Delimited Continuations",
+      "thumbnail": "/app/assets/upload/photo_2022-05-10_11-06-58.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/1rq2OjuLJ8WESj0kaohjIEjSYEtK9BT1r?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "39",
+      "name": "C++ And Python",
+      "dip": "C++ And Python Programming Complete Course",
+      "thumbnail": "/app/assets/upload/photo_2022-05-10_11-07-45.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/1dvBjzmvNUCmHH3x-UC6wWqeZF-HjGpVL?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "40",
+      "name": "WordPress Full Course",
+      "dip": "Create your own website from scratch using Wordpress. Even if you never made a website before!",
+      "thumbnail": "/app/assets/upload/photo_2022-05-10_11-08-26.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/116gb1aKmFbvN_Z33I0hHuvG34QpAciva?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "41",
+      "name": "Java from Scratch",
+      "dip": "Learn Coding with Java from Scratch: Essential Training 2022",
+      "thumbnail": "/app/assets/upload/photo_2022-05-10_11-09-29.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/1IubY8HK65OCaRhKmU7N7XhPrUDn9_8sR?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "42",
+      "name": "RDBMS(MySQL) & NoSQL(MongoDB)",
+      "dip": "Practical Database Guide with RDBMS(MySQL) & NoSQL(MongoDB)",
+      "thumbnail": "/app/assets/upload/photo_2022-05-10_11-10-20.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/1GTihD7qz-ajVxI8grFu_pcfIHwVNSqO6?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "43",
+      "name": "OOP in JAVA",
+      "dip": "Learn Object Oriented Programming in Java âœ¨",
+      "thumbnail": "/app/assets/upload/photo_2022-05-10_11-10-20.jpg",
+      "link": "https://drive.google.com/drive/folders/1nqNWQVN1WBD8VlL93riIuZWXrIjrdvYx",
+      "category":"OTHER"
+    },
+    {
+      "id": "44",
+      "name": "2022 Photoshop Mega Bundle",
+      "dip": "Kristina Sherk â€“ Hair Retouching Guide",
+      "thumbnail": "/app/assets/upload/photo_2022-05-10_11-12-08.jpg",
+      "link": "https://fileaxa.com/j94t3u5kzvy9",
+      "category":"OTHER"
+    },
+    {
+      "id": "45",
+      "name": "Master JavaScript",
+      "dip": "Master JavaScript in 16 days - Build 16 Javascript Projects The best course to master JavaScript in few hours",
+      "thumbnail": "/app/assets/upload/photo_2022-05-10_11-12-49.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/1yuipnfCd9WCTFjIyAbieF8V-ZoujEl7W?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "46",
+      "name": "AI",
+      "dip": "gtu sem 6 subject AI it book",
+      "thumbnail": "/app/assets/upload/0005366_artificial-intelligence-for-gtu-18-course-vi-itprof-elec-ii-3161608.jpeg",
+      "link": "https://drive.google.com/drive/folders/14gRatYWhnJJZY_gDp2hGauP7EtTzOlsn?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "47",
+      "name": "Panchayat",
+      "dip": "amazon prime web series panchayat 2022",
+      "thumbnail": "/app/assets/upload/A5w4PdZgOWhptPTUfruTvFlEURd.jpg",
+      "link": "https://drive.google.com/u/0/uc?id=121OUxfyfa6uG7gDi7B8KkiajTkvjw20G&export=download",
+      "category":"OTHER"
+    },
+    {
+      "id": "48",
+      "name": "TOC darshan",
+      "dip": "SEM 6 CE GTU Theory of Computation (2160704)",
+      "thumbnail": "/app/assets/upload/TOC.jpg",
+      "link": "https://drive.google.com/file/d/1WlI0hasKWbTYjKUscbxBhWJ_5diPCEox/edit",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "49",
+      "name": "TOC",
+      "dip": "SEM 6 CE Book Theory of Computation (2160704)",
+      "thumbnail": "/app/assets/upload/0004590_theory-of-computation-for-gtu-18-course-vi-cecse-3160704.jpeg",
+      "link": "https://drive.google.com/file/d/1Uy9BIgl4JTFm5IM8_q1LWO3VyeUazsxE/view",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "50",
+      "name": "AJAVA",
+      "dip": "SEM 6 CE Book Advance java Programming (3160707)",
+      "thumbnail": "/app/assets/upload/0005373_advanced-java-programming-for-gtu-18-course-vi-cseprof-elec-iii-3160707.jpeg",
+      "link": "https://drive.google.com/file/d/1cWjnxeYtMQuhVced-UaB6EsIybSgn4wN/view",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "51",
+      "name": "MPI",
+      "dip": "SEM 6 CE Book Microprocessor and Interfacing (3160712)",
+      "thumbnail": "/app/assets/upload/0004577_microprocessor-and-interfacing-for-gtu-18-course-vi-comp-3160712.jpeg",
+      "link": "https://drive.google.com/file/d/1ZmLXVZLIR1ay0gsLTP0Ly8di4Fz0_WXS/view",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "52",
+      "name": "WP darshan",
+      "dip": "SEM 6 CE Book WEB Programming (3160713)",
+      "thumbnail": "/app/assets/upload/WP.jpg",
+      "link": "https://drive.google.com/drive/folders/1nthWaKNsR4qWT3ZX3l0k_J0NgslYQ9JG",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "53",
+      "name": "WP",
+      "dip": "SEM 6 CE Book WEB Programming (3160713)",
+      "thumbnail": "/app/assets/upload/0005380_web-programming-for-gtu-18-course-vi-cseprof-elec-ii-3160713.jpeg",
+      "link": "https://drive.google.com/file/d/1TGnZpw16wPa6viUBugHsSIcJ-Wsr-HQH/view",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "54",
+      "name": "DM darshan",
+      "dip": "SEM 6 CE Book Data Mining (3160714)",
+      "thumbnail": "/app/assets/upload/DM.jpg",
+      "link": "https://drive.google.com/drive/folders/1BxrCQZ9jBWsJa6WMmY1y0fMNwLfJlz5d",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "55",
+      "name": "IOT",
+      "dip": "SEM 6 CE Book IOT and Applications (3160716)",
+      "thumbnail": "/app/assets/upload/0005374_iot-its-applications-for-gtu-18-course-vi-cseopen-elec-ii-3160716.jpeg",
+      "link": "https://drive.google.com/file/d/1ymHT-a656SdlaKZ9yPI4kQGvuAwb4dR4/view",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "56",
+      "name": "IOT darshan",
+      "dip": "SEM 6 CE Book IOT and Applications (3160716)",
+      "thumbnail": "/app/assets/upload/IOT.jpg",
+      "link": "https://drive.google.com/drive/folders/1X9oSLyMy9TZFfcKoKKa_ytJkgCTjYraU",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "57",
+      "name": "MPI darshan",
+      "dip": "SEM 6 CE Book MPI darshan",
+      "thumbnail": "/app/assets/upload/MPI.jpg",
+      "link": "https://drive.google.com/drive/folders/1VuRFwcLMhmQFts-yhQgz5bCSpU5WBar5",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "58",
+      "name": "TOC darshan",
+      "dip": "SEM 6 CE Book TOC darshan",
+      "thumbnail": "/app/assets/upload/TOC.jpg",
+      "link": "https://drive.google.com/drive/folders/1Fpw5TMKktbivmu0pH3PSs6YW7uqgIufh",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "59",
+      "name": "AJAVA darshan",
+      "dip": "SEM 6 CE Advance java darshan",
+      "thumbnail": "/app/assets/upload/AJAVA.jpg",
+      "link": "https://drive.google.com/drive/folders/1kaiP-vV3KIoQpntTZ_4PjvXvY0C0dfUb",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "60",
+      "name": "Excel master ðŸ“Œ",
+      "dip": "Udemy - Master in Automated Invoice Maker In Microsoft Excel",
+      "thumbnail": "/app/assets/upload/photo_2022-05-19_20-13-21.jpg",
+      "link": "https://drive.google.com/drive/folders/1QlRtU1-fQo2_Kz5DL1rAYzootTFOpWpx?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "61",
+      "name": "Full Stack Web Development",
+      "dip": "You want to learn Web Development from scratch but canâ€™t because of the complicated nature of programming and too much information that makes you feel lost. This course is for you",
+      "thumbnail": "/app/assets/upload/photo_2022-05-19_20-20-18.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/1XxtI3AdBsELIWk7WBHnKQqUQ9YF2x84m?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "62",
+      "name": "Cisco CLI Switch Configuration",
+      "dip": "Fundamentals of Cisco CLI Switch Configuration",
+      "thumbnail": "/app/assets/upload/photo_2022-05-19_20-21-08.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/1X4z9Oj6c7-LOIgqLxGeD1VjmvtNUehj1?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "63",
+      "name": "JS And PHP Programming",
+      "dip": "Learn JavaScript Programming Language And PHP Programming Language for Frontend And Backend Development",
+      "thumbnail": "/app/assets/upload/photo_2022-05-19_20-21-59.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/1Q-RDLIkrr8T99sB20ETMwJ-jbNwbAdwH?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "64",
+      "name": "Rank #1 on Google with SEO",
+      "dip": "Learn how to Master SEO, WordPress SEO, Keywords SEO and put your website #1 on Google.",
+      "thumbnail": "/app/assets/upload/photo_2022-05-19_20-22-51.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/1vkV25nSci7jQ2WIU6khempJXw5FwPqW5?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "65",
+      "name": "Become a Data Analyst",
+      "dip": "Become a Data Analyst - Power BI | SQL | Python | Tableau",
+      "thumbnail": "/app/assets/upload/photo_2022-05-19_20-23-33.jpg",
+      "link": "https://drive.google.com/drive/u/0/mobile/folders/1pVMo3Cp631oBZDMH9nLZ4gKF1ADw1k0F?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "66",
+      "name": "Midnight Underdog",
+      "dip": "Midnight Underdog â€“ Checkmate Affiliate Marketing Download 2022",
+      "thumbnail": "/app/assets/upload/photo_2022-05-19_20-24-13.jpg",
+      "link": "https://fileaxa.com/vrri25attyau",
+      "category":"OTHER"
+    },
+    {
+      "id": "67",
+      "name": "Photoshop pro skills course",
+      "dip": "adobe photoshop cc :Photoshop skills, Frequency retouching, lighting, photomontage, timeline",
+      "thumbnail": "/app/assets/upload/photo_2022-05-19_20-25-26.jpg",
+      "link": "https://fileaxa.com/kvlk9624s8qh",
+      "category":"OTHER"
+    },
+    {
+      "id": "68",
+      "name": "30.62 GB folder on MEGA",
+      "dip": "Livelessons - The Complete Cybersecurity Bootcamp (Video Collection) Threat Defense, Ethical Hacking, and Incident Handling (29.1GB)",
+      "thumbnail": "/app/assets/upload/Mega_logo.jpg",
+      "link": "https://mega.nz/folder/7c0UGQAR#EIx_PCbO_G7X2m8eCxCOKA",
+      "category":"OTHER"
+    },
+    {
+      "id": "69",
+      "name": "Modding Tutorials & Tools âš¡ï¸",
+      "dip": "Modding Tutorials & Tools adroid apk",
+      "thumbnail": "/app/assets/upload/photo_2022-05-19_20-28-51.jpg",
+      "link": "https://drive.google.com/drive/folders/1vB0oZwTHpjQhUI7y81G2jMrXINX9unKz?usp=sharing",
+      "category":"OTHER"
+    },
+    {
+      "id": "70",
+      "name": "4TB Mega Course Collection",
+      "dip": "4.26 TB folder on MEGA 58360 files and 8926 subfolders",
+      "thumbnail": "/app/assets/upload/Mega_logo.jpg",
+      "link": "https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA",
+      "category":"OTHER"
+    },
+    {
+      "id": "71",
+      "name": "Social Accounts Hacking With Android",
+      "dip": "683.2 MB folder on MEGA 8 files",
+      "thumbnail": "/app/assets/upload/Mega_logo.jpg",
+      "link": "https://mega.nz/folder/Q0MhjITJ#ptCY-I8MzbbG_OPdUECYXQ",
+      "category":"OTHER"
+    },
+    {
+      "id": "72",
+      "name": "SE IMP",
+      "dip": "SE GTu sem 6 IT subjects imps and answers",
+      "thumbnail": "/app/assets/upload/screenshot20220526183341.jpg",
+      "link": "https://mega.nz/file/aqx2BR5a#6gMHU6Vzsegv-DusxvP6N6E1616Fl1oh-3eB05Yq6GA",
+      "category":"Information Technology"
+    },
+    {
+      "id": "73",
+      "name": "DWM pptx",
+      "dip": "DWM sem 6 IT subjects all chapter pptx in one pdf",
+      "thumbnail": "/app/assets/upload/DWMPPT.jpg",
+      "link": "https://mega.nz/file/j7QCFQSY#oQe3RIcYVb-CSdgkzQcwiPfq6yxj3QVVC5nAz9WKEoY",
+      "category":"Information Technology"
+    },
+    {
+      "id": "74",
+      "name": "SE imp",
+      "dip": "SE sem 6 it subject GTU exam full imp QnA",
+      "thumbnail": "/app/assets/upload/SE1.jpg",
+      "link": "https://mega.nz/file/CvJk0QhB#Tm7cCRbhRAfu7TQLuJA5JjENQaiRqdC6pAXmXalWuNc",
+      "category":"Information Technology"
+    },
+    {
+      "id": "75",
+      "name": "CNS imp",
+      "dip": "CNS sem 6 it subject GTU exam full imp QnA",
+      "thumbnail": "/app/assets/upload/CNS1.jpg",
+      "link": "https://mega.nz/file/7iBQhB5C#CzTbeH_uNIO6JFAgGodIE4ogmIfFVQ4QqmthAy0-KPM",
+      "category":"Information Technology"
+    },
+    {
+      "id": "76",
+      "name": "DWM imp",
+      "dip": "DWM sem 6 it subject GTU exam full imp QnA",
+      "thumbnail": "/app/assets/upload/DWM1.jpg",
+      "link": "https://mega.nz/file/n3RwiB6S#P-00AdRPCvIihTePBwBqZCR-f0WqdAFNQ2gaxX3L5Tk",
+      "category":"Information Technology"
+    },
+    {
+      "id": "77",
+      "name": "AI imp",
+      "dip": "AI sem 6 it subject GTU exam full imp QnA",
+      "thumbnail": "/app/assets/upload/AI1.jpg",
+      "link": "https://mega.nz/file/uiJ0CAKC#aARtitDcr61xNZEJvkWo5lxsrN29FK5wOVKTK_CdvMo",
+      "category":"Information Technology"
+    },
+    {
+      "id": "78",
+      "name": "MAD imp",
+      "dip": "MAD sem 6 it subject GTU exam full imp QnA",
+      "thumbnail": "/app/assets/upload/MAD1.jpg",
+      "link": "https://mega.nz/file/f34gHapQ#eP17DWANXOLtVnXvXpIzj_z7tBBF2cxNiudO93M2bkM",
+      "category":"Information Technology"
+    },
+    {
+      "id": "79",
+      "name": "WD",
+      "dip": "GTU SEM 6 SUBJECT WEB DEVELOPMENT FULL PDF",
+      "thumbnail": "/app/assets/upload/Screenshot_2022-06-03-18-53-34-57_ea36bad45f96b1f8b550501049a7ff61.jpg",
+      "link": "https://drive.google.com/drive/folders/1nthWaKNsR4qWT3ZX3l0k_J0NgslYQ9JG",
+      "category":"Information Technology"
+    },
+    {
+      "id": "81",
+      "name": "SE (GTU)",
+      "dip": "GTU 6th semester IT CE subject software engineering",
+      "thumbnail": "https://photos.app.goo.gl/ovhmK3DgnjyRpeAN6",
+      "link": "https://drive.google.com/uc?export=download&id=1V2ZLQzgCWzZYhqEuRfaVagdC9lciTPMD",
+      "category":"Information Technology"
+    },
+    {
+      "id": "82",
+      "name": "SE IMP (GTU)",
+      "dip": "GTU 6rd semester IT subject software enginnering imp for gtu exam with answers",
+      "thumbnail": "/app/assets/upload/SE!.jpg",
+      "link": "https://drive.google.com/file/d/1CWTp1maF5IeYV0TDaGGr6M8TgfZB2HTs/view?usp=sharing",
+      "category":"Information Technology"
+    },
+    {
+      "id": "83",
+      "name": "MAD IMP (GTU)",
+      "dip": "GTU 6rd semester IT subject Mobile application development imp for gtu exam only questions",
+      "thumbnail": "/app/assets/upload/MAD.jpg",
+      "link": "https://drive.google.com/uc?export=download&id=1xJUh9b_We4b2jwKNHskpkTmS5wq11oNV",
+      "category":"Information Technology"
+    },
+    {
+      "id": "84",
+      "name": "CNS IMP (GTU)",
+      "dip": "GTU 6th semester IT subject CNS imp for gtu exam",
+      "thumbnail": "/app/assets/upload/CNS.jpg",
+      "link": "https://drive.google.com/uc?export=download&id=1CPG9Git-iynFEs58_X5bSG8OMJa0mOCz",
+      "category":"Information Technology"
+    },
+    {
+      "id": "85",
+      "name": "AI IMP (GTU)",
+      "dip": "GTU 6rd semester IT subject AI imp for gtu exam with answers",
+      "thumbnail": "/app/assets/upload/AI.jpg",
+      "link": "https://drive.google.com/uc?export=download&id=1CPG9Git-iynFEs58_X5bSG8OMJa0mOCz",
+      "category":"Information Technology"
+    },
+    {
+      "id": "86",
+      "name": "DWM IMP (GTU)",
+      "dip": "GTU 6rd semester IT subject DWM imp for gtu exam with answers",
+      "thumbnail": "/app/assets/upload/DWM.jpg",
+      "link": "https://drive.google.com/file/d/1CSStN9D8yR-oxYTHLp-1kF4Wz2xAONE6/view?usp=sharing",
+      "category":"Information Technology"
+    },
+    {
+      "id": "87",
+      "name": "DWM DARSHAN",
+      "dip": "GTU 6rd semester IT subject DWM darshan pdf",
+      "thumbnail": "/app/assets/upload/DWMD.jpg",
+      "link": "https://mega.nz/file/7qgARAAQ#dTtBepii1yqR5l4VYU3GmfilsZwglc-y8SnQpqMhIFo",
+      "category":"Information Technology"
+    },
+    {
+      "id": "88",
+      "name": "AI DARSHAN",
+      "dip": "GTU 6rd semester IT subject AI darshan pdf",
+      "thumbnail": "/app/assets/upload/AID.jpg",
+      "link": "https://mega.nz/file/a75ijBab#8CATrBmtFnp6T6nGjkfqA9AKae81u8B-6tStjMQV8SM",
+      "category":"Information Technology"
+    },
+    {
+      "id": "89",
+      "name": "SE Darshan",
+      "dip": "GTU 6rd semester IT subject SE darshan pdf",
+      "thumbnail": "/app/assets/upload/SED.jpg",
+      "link": "https://mega.nz/file/a75ijBab#8CATrBmtFnp6T6nGjkfqA9AKae81u8B-6tStjMQV8SM",
+      "category":"Information Technology"
+    },
+    {
+      "id": "90",
+      "name": "CNS Darshan",
+      "dip": "GTU 6rd semester IT subject CNS Darshan pdf",
+      "thumbnail": "/app/assets/upload/CNSD.jpg",
+      "link": "https://mega.nz/file/W6JyzAab#eVmIOffOiC64DIDnehyAHQKiLTmS_xxj1FFpLEvGcYQ",
+      "category":"Information Technology"
+    },
+    {
+      "id": "91",
+      "name": "MAD Darshan",
+      "dip": "GTU 6rd semester IT subject MAD Darshan pdf",
+      "thumbnail": "/app/assets/upload/MADD.jpg",
+      "link": "/app/assets/upload/MADDD.pdf",
+      "category":"Information Technology"
+    },
+    {
+      "id": "92",
+      "name": "MAD (GTU)",
+      "dip": " GTU 6rd semester IT CE subject mobile application development MIMP",
+      "thumbnail": "https://m.media-amazon.com/images/I/41xynJRIJkL.jpg",
+      "link": "https://drive.google.com/file/d/1AyFDNXqIauvyo7nMGnPv9EbjFS_T_Eac/view?usp=sharing",
+      "category":"Information Technology"
+    },
+    {
+      "id": "93",
+      "name": "CNS (GTU)",
+      "dip": "GTU 6rd semester IT CE subject cryptography and network security",
+      "thumbnail": "https://m.media-amazon.com/images/I/51fyMgWZGSL.jpg",
+      "link": "https://drive.google.com/file/d/11JNAVvL_kSvUCctYy5qD8WoWj7W7sgQZ/view?usp=sharing",
+      "category":"Information Technology"
+    },
+    {
+      "id": "94",
+      "name": "DBMS (GTU)",
+      "dip": "GTU 3rd semester IT subject distributed database management system",
+      "thumbnail": "download.jpg",
+      "link": "https://drive.google.com/drive/u/0/folders/1TKodWr0SjwguusQSUP_itup0nnYWD7_4",
+      "category":"Information Technology"
+    },
+    {
+      "id": "95",
+      "name": "IPDC 2 IMP (GTU)",
+      "dip": "GTU 6rd semester IT subject IPDC imp mcqs for gtu exam with answers",
+      "thumbnail": "/app/assets/upload/IPDC.jpg",
+      "link": "/app/assets/upload/IPDC2.pdf",
+      "category":"Information Technology"
+    },
+    {
+      "id": "96",
+      "name": "DS (GTU)",
+      "dip": "GTU 3rd semester IT subject Data Structure",
+      "thumbnail": "download%20(2).jpg",
+      "link": "https://drive.google.com/drive/u/0/folders/1G5bkszqw8k4x9qHZh_y_UT9hy5dxbN8p",
+      "category":"Information Technology"
+    },
+    {
+      "id": "100",
+      "name": "PS New (GTU)",
+      "dip": "GTU 3rd semester IT subject Probability and stattistics",
+      "thumbnail": "download%20(3).jpg",
+      "link": "https://drive.google.com/drive/u/0/folders/1iJbDrcDWUpQbwfkrzVgWZeIjIUFvJujw",
+      "category":"Information Technology"
+    },
+    {
+      "id": "101",
+      "name": "PEM (GTU)",
+      "dip": "GTU 2nd year 4th semester Subject PEM",
+      "thumbnail": "download%20(4).jpg",
+      "link": "https://drive.google.com/drive/u/0/folders/1aknwjc0C99vZD7uzN9EEDX4-HLYtxtBK",
+      "category":"Information Technology"
+    },
+    {
+      "id": "102",
+      "name": "BEE",
+      "dip": "GTU 3rd semester IT subject BEE",
+      "thumbnail": "download%20(6).jpg",
+      "link": "",
+      "category":"Information Technology"
+    },
+    {
+      "id": "103",
+      "name": "OOP",
+      "dip": "GTU 2nd year 4th semester Subject OOP",
+      "thumbnail": "download%20(8).jpg",
+      "link": "https://drive.google.com/drive/u/0/folders/10-AnnEsrR5m0oouNGe9uIV91fdAzZn0V",
+      "category":"Information Technology"
+    },
+    {
+      "id": "104",
+      "name": "OS",
+      "dip": "GTU 2nd year 4th semester Subject OS",
+      "thumbnail": "OS.jpg",
+      "link": "https://drive.google.com/drive/folders/1XQ1eFjWUIQup1Gc450uuDOjwQa-7dqEw?usp=sharing",
+      "category":"Information Technology"
+    },
+    {
+      "id": "105",
+      "name": "DM",
+      "dip": "GTU 2nd year 4th semester Subject DM",
+      "thumbnail": "DM.jpg",
+      "link": "https://drive.google.com/drive/u/0/folders/1oGcLNajdp1FQK1TxeCtTRbYKWwUnF4RH",
+      "category":"Information Technology"
+    },
+    {
+      "id": "106",
+      "name": "COA",
+      "dip": "GTU 2nd year 4th semester Subject COA",
+      "thumbnail": "COA.jpg",
+      "link": "https://drive.google.com/drive/u/0/folders/1G7xJidfuFtzjOqT56KGOrj4gniy10CMV",
+      "category":"Information Technology"
+    },
+    {
+      "id": "107",
+      "name": "WD",
+      "dip": "GTU 3rd year 5th semester Subject Web Development",
+      "thumbnail": "WD.jpg",
+      "link": "https://drive.google.com/drive/u/0/folders/1Osi6SFxxrMHEe_wHmXRzZsJ3k0ziw1pP",
+      "category":"Information Technology"
+    },
+    {
+      "id": "108",
+      "name": "CN",
+      "dip": "GTU 3rd year 5th semester Subject Computer networks",
+      "thumbnail": "Cn.jpg",
+      "link": "https://drive.google.com/drive/u/0/folders/17M1GTIVJ1CPy-arZyb2hANclYBJQWm9s",
+      "category":"Information Technology"
+    },
+    {
+      "id": "109",
+      "name": "CS",
+      "dip": "GTU 3rd year 5th semester Subject CS",
+      "thumbnail": "CS.jpg",
+      "link": "https://drive.google.com/drive/u/0/folders/1F6sncxvoTAcOqpwDRAwqwLr9qW2K5yJ6",
+      "category":"Information Technology"
+    },
+    {
+      "id": "110",
+      "name": "ADA",
+      "dip": "GTU 3rd year 5th semester Subject ADA",
+      "thumbnail": "ADA.jpeg",
+      "link": "https://drive.google.com/drive/u/0/folders/1E2ehd2UjspZOgg1HyI-oQdrX3AEpdnWl",
+      "category":"Information Technology"
+    },
+    {
+      "id": "111",
+      "name": "IPDC",
+      "dip": "GTU 3rd year 5th semester Subject IPDC",
+      "thumbnail": "IPDC.jpeg",
+      "link": "https://drive.google.com/drive/u/0/folders/1VgneAA26gXU1AeGXgaJY2ieQuwlcWRF2",
+      "category":"Information Technology"
+    },
+    {
+      "id": "112",
+      "name": "IPDC Workbook 2",
+      "dip": "GTU 3rd year 5th semester Subject IPDC",
+      "thumbnail": "https://html.scribdassets.com/11agjoniyo8p314w/images/1-ee8e971c28.jpg",
+      "link": "https://drive.google.com/uc?export=download&id=1EEsKtupHf_zZ7nh7hsQnFKt0F-pLUNUh",
+      "category":"Information Technology"
+    },
+    {
+      "id": "113",
+      "name": "SPM (GTU)",
+      "dip": "GTU 7th SEM IT subject software project management book",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0620/3355/9723/products/9789390770823.jpg?v=1659125204",
+      "link": "https://mega.nz/file/Pzx1gbga#ly5z-KLfnXHhz7EY5FBIPHDgA6xrQ9cPb1_V_HQku_w",
+      "category":"Information Technology"
+    },
+    {
+      "id": "114",
+      "name": "ADUD (GTU)",
+      "dip": "GTU 7th SEM IT subject Agile development and UI/UX design book",
+      "thumbnail": "https://m.media-amazon.com/images/I/41abglWpWQL.jpg",
+      "link": "https://mega.nz/file/euhBnRpA#ef8q0ZV6u5sfFnUglOVZavArJuPx5SUOs6vGOqZneE0",
+      "category":"Information Technology"
+    },
+    {
+      "id": "115",
+      "name": "WC (GTU)",
+      "dip": "GTU 7th SEM IT subject WC book",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/41beu1BFBdL._SX342_SY445_QL70_ML2_.jpg",
+      "link": "https://mega.nz/file/fuAHBZbZ#pcCa8gbYrx0uK-jVVILtUZkYSr1PmDt0s9jAX5QnebM",
+      "category":"Information Technology"
+    },
+    {
+      "id": "116",
+      "name": "ISWA (GTU)",
+      "dip": "GTU 7th SEM IT subject Internet security and web analytics book",
+      "thumbnail": "https://rukminim1.flixcart.com/image/416/416/krwec280/book/8/w/t/internetwork-security-and-web-analytics-for-gtu-18-course-vii-it-original-imag5hy74fmad3du.jpeg?q=70",
+      "link": "https://mega.nz/file/b6YVxKII#Wzy0vVdmFGQDHYZjES7xOorhFt4bFAaOxg7KwrpIch4",
+      "category":"Information Technology"
+    },
+    {
+      "id": "117",
+      "name": "Brahmastra",
+      "dip": "Brahmastra is Bollywood movie HDcam Bluray movie download ",
+      "thumbnail": "/app/assets/upload/wp10472643-brahmastra-wallpapers.jpg",
+      "link": "https://docs.google.com/document/d/1RruEAP-jOcETXmzbccX9_DfwTxf27TZHSTgps-7d4Jc/edit?usp=drivesdk",
+      "category":"Information Technology"
+    },
+    {
+      "id": "118",
+      "name": "ML (GTU)",
+      "dip": "GTU CS 7th Sem Book machine learning (3170724) ",
+      "thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEiB_OhSyoD9abVragtB2x3fJxbhat5q4iSFz2VyOfNS4TDf84mwkL9xlgTPQlv2IycOsmGTPf3J46wDBN8UvYthgVRGRni57QGcY3Vxjv_p0MS1wIEnEPPP68LqojFS15WJjuyJab9EPAX_m6tE0eejmXpgANb2IlDmVkJxCB2BRGKdNi4AvW22Dn2B=s320",
+      "link": "https://mega.nz/file/bnBnRAqT#80jKVidbaxHxt4nkXKZfywjoHkmUw23-rgY8h65i3rc",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "119",
+      "name": "CC (GTU)",
+      "dip": "GTU CS 7th Sem Book Cloud Computing(3170717) ",
+      "thumbnail": "https://rukminim1.flixcart.com/image/416/416/ksuowi80/book/i/u/n/cloud-computing-for-gtu-18-course-vii-ce-cse-ict-3170718-prof-original-imag6bhhkhnagv8c.jpeg?q=70",
+      "link": "https://mega.nz/file/O6BFyKCS#uC7FME_Q6CxPRdiJZI1P9sAD0T2pzIhiV01uURfLwCc",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "120",
+      "name": "IS (GTU)",
+      "dip": "GTU CE 7th Sem subject internet security (3170720) book pdf",
+      "thumbnail": "https://m.media-amazon.com/images/I/51PqPGJ1DIL.jpg",
+      "link": "https://mega.nz/file/ar4FXQ7J#2zIpU81vgmmX4mB5onceLQbRgEElS7iBHZN3j8ZRNEo",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "121",
+      "name": "MAD (GTU)",
+      "dip": "GTU CE 7th Sem subject Mobile application development (3170726) book pdf",
+      "thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEihBTRPYaJ2etYLZucKRasbb0_jgOHznzTtCFA_PcZZIei8-bqQPmrgjB32SjxpMQ0e6oEy-GsMJsa8PZm8GB7WobLECK6Zs7MEjM8LRJDW40lkmlIFTAsFh8cOK41AONOsHISg2EPWYqvXdYuHkawWC4gA2XhmZNWPwSYsP5kSjKsRbc_kd-V9S75e=s320",
+      "link": "https://mega.nz/file/b2gFxYqQ#C_6QgbiSz7vVD0xAUqRajfoygBGUQGUk5MotTsB-Gdk",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "122",
+      "name": "CD (GTU)",
+      "dip": "GTU CE 7th Sem subject complier design (3170701) book pdf",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41UoESwjljL._SX364_BO1,204,203,200_.jpg",
+      "link": "https://mega.nz/file/XvZnyTBC#YaAYkAfSQRWblV-eTr5puqq9Nyd4ra6g8n-eKzD7Kxc",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "123",
+      "name": "MCWC (GTU)",
+      "dip": "GTU CE 7th Sem subject Mobile computing and wireless communication (2170710) book pdf",
+      "thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjrbSNlpToxGpKbsp2a4g9gKBfHaI-BPqaXvrZqpaJyHfdv8fnJHLu_eS9r1wJtwpq9lQS3eVI3KiAfF6G5yScYrkrzlER-8rIQ5kG-nIK6dRGnGCnawqY16hq6sXt85RfwkAzaGk6bGqY48uWHeaAbC8lu8UOLKjJ7QFJ180pY_brNP76Cd29_EtDE=s320",
+      "link": "https://mega.nz/file/GnIXmbCY#R6LJGFdV4W4p-1XBSj10YtQrCJ5nlbjsAFVVBWkUOSU",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "124",
+      "name": "BC (GTU)",
+      "dip": "GTU IT 7th Sem subject Block chain (3171618) book pdf",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0620/3355/9723/products/9789390770359.jpg?v=1659034021",
+      "link": "https://mega.nz/file/C6gjnaIC#PZ8dKtU64fqA0ejpkRFalfJPSZJ7JJH7gtIgaHdyaFo",
+      "category":"Information Technology"
+    },
+    {
+      "id": "125",
+      "name": "AML (GTU)",
+      "dip": "GTU IT 7th Sem subject Applied machine learning (3171617) book pdf",
+      "thumbnail": "/app/assets/upload/AML.jpg",
+      "link": "https://mega.nz/file/LqY0hbRZ#ZzIjMpGvPMfVM1QpK-OqRdvRlthwv1qrClXHCn2y8eA",
+      "category":"Computer Eng"
+    },
+    {
+      "id": "126",
+      "name": "VAR (GTU)",
+      "dip": "7th SEM IT virtual & augmennted reality  (3171612)GTU BOOK PDF",
+      "thumbnail": "https://m.media-amazon.com/images/I/4167p-XES-L.jpg",
+      "link": "https://mega.nz/file/SvJSTaAa#3PiFrehn1P36NEGbxCBPi1u6SGyK09bPb2yjxahHmIQ",
+      "category":"Information Technology"
+    },
+    {
+      "id": "127",
+      "name": "7TH SEM FULL",
+      "dip": "GTU IT 7TH SEM ALL SUBJECT BOOK PDF LINK IN ONE FILE",
+      "thumbnail": "/app/assets/upload/ALL_GTU.jpg",
+      "link": "https://mega.nz/file/X740WbhB#fL5c3tYM8_8sNyfNxY5S3Rh285guOfvGSMedNmmpL9A",
+      "category":"Information Technology"
+    }
+]
